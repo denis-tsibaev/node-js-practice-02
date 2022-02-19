@@ -1,0 +1,25 @@
+{
+	"name": "node-js-practice-02",
+	"version": "1.0.0",
+	"description": "",
+	"main": "app.js",
+	"type": "module",
+	"scripts": {
+		"start": "node app.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/denis-tsibaev/node-js-practice-02.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/denis-tsibaev/node-js-practice-02/issues"
+	},
+	"homepage": "https://github.com/denis-tsibaev/node-js-practice-02#readme",
+	"dependencies": {
+		"commander": "9.0.0"
+	}
+}
